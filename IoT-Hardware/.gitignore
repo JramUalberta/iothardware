@@ -3,6 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-.addons
+/addons
 ESP8266WiFi.h
 Firebase_ESP_Client.h
