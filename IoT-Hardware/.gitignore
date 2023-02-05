@@ -4,5 +4,5 @@
 .vscode/launch.json
 .vscode/ipch
 .addons
-.src\ESP8266WiFi.h
-.src\Firebase_ESP_Client.h
+ESP8266WiFi.h
+Firebase_ESP_Client.h
